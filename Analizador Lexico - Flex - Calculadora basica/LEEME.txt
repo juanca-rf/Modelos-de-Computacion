@@ -1,0 +1,1 @@
+Antes de compilar y ejecutar el codigo revisar cómo en la ultima pagina de la documentación

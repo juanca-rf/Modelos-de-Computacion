@@ -1,0 +1,16 @@
+Pi=0.3141592653589793
+Gravitacion=0.0000015
+Velocidadluz=299792458 
+suma 10 20
+resta 10 20
+rest 20 10
+muestrame la memoria
+divide [2] 7
+enseña las variables
+mult 10 Pi
+memoria
+Pi=[4]
+Nuevavar=-10
+sum 10 Nuevavar
+mem
+vars
